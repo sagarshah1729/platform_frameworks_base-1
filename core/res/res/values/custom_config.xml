@@ -78,4 +78,8 @@
          Set to -1 to disable the proximity sensor check at all -->
     <integer name="config_flashlightProximityTimeout">300</integer>
 
+    <!-- Paths to fast charging status file to detect whether an oem fast charger is active -->
+    <string-array name="config_oemFastChargerStatusPaths" translatable="false">
+    </string-array>
+
 </resources>
