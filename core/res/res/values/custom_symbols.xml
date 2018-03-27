@@ -48,6 +48,9 @@
     <java-symbol type="string" name="url_copy_success" />
     <java-symbol type="string" name="url_copy_failed" />
 
+    <!-- Settings icon tint color -->
+    <java-symbol type="color" name="settings_icon_tint_color" />
+
     <!-- Auto fill -->
     <java-symbol type="color" name="autofill_save_title_color" />
     <java-symbol type="color" name="autofill_autofill_save_custom_subtitle_color" />
